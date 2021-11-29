@@ -1,0 +1,4 @@
+outs:
+- md5: da345deb98d02b7ab61522332e61a6ae
+  size: 5997412
+  path: allergies.csv

@@ -1,0 +1,4 @@
+outs:
+- md5: eee131da8bb18822f55212fb6e052e9c
+  size: 1396009
+  path: organizations.csv

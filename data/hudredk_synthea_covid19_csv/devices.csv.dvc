@@ -1,0 +1,4 @@
+outs:
+- md5: 1173f2c50607cc45ada0e4be9b1562c8
+  size: 5137210
+  path: devices.csv
